@@ -85,3 +85,4 @@ C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.dll
 C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.pdb
 C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.Migrations.InitialModel.resources
 C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.csproj.GenerateResource.cache
+C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.Migrations.CreateGigTable.resources
