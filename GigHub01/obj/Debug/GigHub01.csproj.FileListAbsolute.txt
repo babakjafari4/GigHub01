@@ -88,3 +88,4 @@ C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.csproj.Generat
 C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.Migrations.CreateGigTable.resources
 C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.Migrations.OverrideConventionForGigsAndGenres.resources
 C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.Migrations.PopulateGenresTable.resources
+C:\Users\Topraq\source\repos\GigHub01\GigHub01\obj\Debug\GigHub01.Migrations.AddForeignKeyPropertiesToGig.resources
