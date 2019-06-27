@@ -55,9 +55,10 @@ textarea {
 
 .form-control {
     font-size: 17px;
-    padding: 20px 15px;
+    /*padding: 20px 15px;*/
     -ms-border-radius: 9px;
     border-radius: 9px;
+    height: 50px;
 }
 
 .form-control:focus {
@@ -68,8 +69,12 @@ textarea {
 
 .btn {
     font-size: 17px;
-    padding:7px 20px;
+    padding:7px 12px;
     -ms-border-radius: 9px;
     border-radius: 9px;
 }
 
+.field-validation-error {
+    color: red;
+    font-weight: bold;
+}
